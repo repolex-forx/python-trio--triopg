@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/python-trio/triopg/commit/6575b2212aca2e86c5c91d9f39cf912b6dc40396",
       "git:hexsha": "6575b2212aca2e86c5c91d9f39cf912b6dc40396",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/python-trio/triopg/commit/f672ad90d6dd3057e659aad41e760335e410a8c9",
